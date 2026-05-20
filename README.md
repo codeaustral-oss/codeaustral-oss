@@ -20,6 +20,15 @@ We help maintainers close scoped issues with clear pull requests, focused tests,
 - Test coverage for known regressions
 - Build, CI, and integration fixes
 
+## Public Repos
+
+- [github-bounty-scout](https://github.com/codeaustral-oss/github-bounty-scout): CLI for reviewing GitHub issue signals before starting bounty work.
+- [typescript-debugging-examples](https://github.com/codeaustral-oss/typescript-debugging-examples): small TypeScript regression examples with Vitest coverage.
+- [python-regression-fixtures](https://github.com/codeaustral-oss/python-regression-fixtures): standard-library Python fixtures for common edge cases.
+- [oss-fix-playbook](https://github.com/codeaustral-oss/oss-fix-playbook): practical contribution workflow and scorecard.
+- [maintainer-friendly-pr-template](https://github.com/codeaustral-oss/maintainer-friendly-pr-template): reusable pull request and issue comment templates.
+- [oss-contribution-starter-kit](https://github.com/codeaustral-oss/oss-contribution-starter-kit): starter kit for focused open-source contributions.
+
 ## Contact
 
 hello@codeaustral.com
