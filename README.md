@@ -1,12 +1,14 @@
 # CodeAustral OSS
 
 [![Portfolio](https://img.shields.io/badge/portfolio-codeaustral--oss.github.io-0b4f45)](https://codeaustral-oss.github.io)
+[![Aurora Particle Studio CI](https://github.com/codeaustral-oss/aurora-particle-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/codeaustral-oss/aurora-particle-studio/actions/workflows/ci.yml)
+[![Env Contract CI](https://github.com/codeaustral-oss/env-contract/actions/workflows/ci.yml/badge.svg)](https://github.com/codeaustral-oss/env-contract/actions/workflows/ci.yml)
 [![GitHub Bounty Scout CI](https://github.com/codeaustral-oss/github-bounty-scout/actions/workflows/ci.yml/badge.svg)](https://github.com/codeaustral-oss/github-bounty-scout/actions/workflows/ci.yml)
 [![TypeScript Examples CI](https://github.com/codeaustral-oss/typescript-debugging-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/codeaustral-oss/typescript-debugging-examples/actions/workflows/ci.yml)
 
-Small, well-tested open-source fixes from CodeAustral LLC.
+Small, well-tested open-source tools and fixes from CodeAustral LLC.
 
-We help maintainers close scoped issues with clear pull requests, focused tests, and quick review follow-up. Most of our work is in TypeScript, React, Node.js, Python, Go, docs, and test infrastructure.
+We publish practical developer utilities, visual Three.js labs, and maintainer-friendly contribution resources. Most of our work is in TypeScript, React, Node.js, Python, Go, docs, and test infrastructure.
 
 ## How We Work
 
@@ -26,6 +28,12 @@ We help maintainers close scoped issues with clear pull requests, focused tests,
 
 ## Featured Work
 
+- [aurora-particle-studio](https://github.com/codeaustral-oss/aurora-particle-studio): Three.js particle system editor with JSON presets and PNG export.
+- [orbit-weaver](https://github.com/codeaustral-oss/orbit-weaver): browser-based orbital ribbon composer for kinetic line systems.
+- [chroma-field-lab](https://github.com/codeaustral-oss/chroma-field-lab): animated flow-field particle lab for seeded visual studies.
+- [schema-fixture-factory](https://github.com/codeaustral-oss/schema-fixture-factory): deterministic JSON fixtures from JSON Schema.
+- [env-contract](https://github.com/codeaustral-oss/env-contract): CI-friendly `.env` validation with a readable contract file.
+- [md-anchor-guard](https://github.com/codeaustral-oss/md-anchor-guard): Markdown heading-anchor and local-link checker.
 - [github-bounty-scout](https://github.com/codeaustral-oss/github-bounty-scout): CLI for reviewing GitHub issue signals before starting bounty work.
 - [typescript-debugging-examples](https://github.com/codeaustral-oss/typescript-debugging-examples): small TypeScript regression examples with Vitest coverage.
 - [python-regression-fixtures](https://github.com/codeaustral-oss/python-regression-fixtures): standard-library Python fixtures for common edge cases.
